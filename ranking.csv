@@ -1,0 +1,212 @@
+rank,flag,name,previous_rank,points,previous_points,confederation
+1.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ESP,Spain,1.0,1877.18,1877.18,UEFA
+2.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ARG,Argentina,2.0,1873.33,1873.33,CONMEBOL
+3.0,https://api.fifa.com/api/v3/picture/flags-sq-2/FRA,France,3.0,1870.0,1870.0,UEFA
+4.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ENG,England,4.0,1834.12,1834.12,UEFA
+5.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BRA,Brazil,5.0,1760.46,1760.46,CONMEBOL
+6.0,https://api.fifa.com/api/v3/picture/flags-sq-2/POR,Portugal,6.0,1760.38,1760.38,UEFA
+7.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NED,Netherlands,7.0,1756.27,1756.27,UEFA
+8.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MAR,Morocco,11.0,1736.57,1716.34,CAF
+9.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BEL,Belgium,8.0,1730.71,1730.71,UEFA
+10.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GER,Germany,9.0,1724.15,1724.15,UEFA
+11.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CRO,Croatia,10.0,1716.88,1716.88,UEFA
+12.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SEN,Senegal,19.0,1706.83,1648.07,CAF
+13.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ITA,Italy,12.0,1702.06,1702.06,UEFA
+14.0,https://api.fifa.com/api/v3/picture/flags-sq-2/COL,Colombia,13.0,1701.3,1701.3,CONMEBOL
+15.0,https://api.fifa.com/api/v3/picture/flags-sq-2/USA,USA,14.0,1681.88,1681.88,CONCACAF
+16.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MEX,Mexico,15.0,1675.75,1675.75,CONCACAF
+17.0,https://api.fifa.com/api/v3/picture/flags-sq-2/URU,Uruguay,16.0,1672.62,1672.62,CONMEBOL
+18.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SUI,Switzerland,17.0,1654.69,1654.69,UEFA
+19.0,https://api.fifa.com/api/v3/picture/flags-sq-2/JPN,Japan,18.0,1650.12,1650.12,AFC
+20.0,https://api.fifa.com/api/v3/picture/flags-sq-2/IRN,IR Iran,20.0,1617.02,1617.02,AFC
+21.0,https://api.fifa.com/api/v3/picture/flags-sq-2/DEN,Denmark,21.0,1616.75,1616.75,UEFA
+22.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KOR,Korea Republic,22.0,1599.45,1599.45,AFC
+23.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ECU,Ecuador,23.0,1591.73,1591.73,CONMEBOL
+24.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AUT,Austria,24.0,1585.51,1585.51,UEFA
+25.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TUR,Türkiye,25.0,1582.69,1582.69,UEFA
+26.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NGA,Nigeria,38.0,1581.55,1502.46,CAF
+27.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AUS,Australia,26.0,1574.01,1574.01,AFC
+28.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ALG,Algeria,34.0,1560.91,1517.68,CAF
+29.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CAN,Canada,27.0,1559.15,1559.15,CONCACAF
+30.0,https://api.fifa.com/api/v3/picture/flags-sq-2/UKR,Ukraine,28.0,1557.47,1557.47,UEFA
+31.0,https://api.fifa.com/api/v3/picture/flags-sq-2/EGY,Egypt,35.0,1556.71,1515.18,CAF
+32.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NOR,Norway,29.0,1553.14,1553.14,UEFA
+33.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PAN,Panama,30.0,1539.47,1540.43,CONCACAF
+34.0,https://api.fifa.com/api/v3/picture/flags-sq-2/POL,Poland,31.0,1532.04,1532.04,UEFA
+35.0,https://api.fifa.com/api/v3/picture/flags-sq-2/WAL,Wales,32.0,1529.71,1529.71,UEFA
+36.0,https://api.fifa.com/api/v3/picture/flags-sq-2/RUS,Russia,33.0,1524.52,1524.52,UEFA
+37.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CIV,Côte d'Ivoire,42.0,1522.48,1489.59,CAF
+38.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SCO,Scotland,36.0,1506.77,1506.77,UEFA
+39.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SRB,Serbia,37.0,1506.34,1506.34,UEFA
+40.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PAR,Paraguay,39.0,1501.5,1501.5,CONMEBOL
+41.0,https://api.fifa.com/api/v3/picture/flags-sq-2/HUN,Hungary,40.0,1496.29,1496.29,UEFA
+42.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SWE,Sweden,43.0,1487.13,1487.13,UEFA
+43.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CZE,Czechia,44.0,1487.0,1487.0,UEFA
+44.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SVK,Slovakia,45.0,1485.65,1485.65,UEFA
+45.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CMR,Cameroon,57.0,1482.39,1440.43,CAF
+46.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GRE,Greece,46.0,1480.38,1480.38,UEFA
+47.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TUN,Tunisia,41.0,1479.04,1494.86,CAF
+48.0,https://api.fifa.com/api/v3/picture/flags-sq-2/COD,Congo DR,56.0,1468.22,1444.16,CAF
+49.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ROU,Romania,47.0,1465.78,1465.78,UEFA
+50.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VEN,Venezuela,48.0,1465.22,1465.22,CONMEBOL
+51.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CRC,Costa Rica,49.0,1464.24,1464.24,CONCACAF
+52.0,https://api.fifa.com/api/v3/picture/flags-sq-2/UZB,Uzbekistan,50.0,1462.03,1462.03,AFC
+53.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PER,Peru,51.0,1459.57,1459.57,CONMEBOL
+54.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MLI,Mali,53.0,1458.48,1455.03,CAF
+55.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CHI,Chile,52.0,1457.84,1457.84,CONMEBOL
+56.0,https://api.fifa.com/api/v3/picture/flags-sq-2/QAT,Qatar,54.0,1454.96,1454.96,AFC
+57.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SVN,Slovenia,55.0,1447.31,1447.31,UEFA
+58.0,https://api.fifa.com/api/v3/picture/flags-sq-2/IRQ,Iraq,58.0,1436.94,1436.94,AFC
+59.0,https://api.fifa.com/api/v3/picture/flags-sq-2/IRL,Republic of Ireland,59.0,1436.04,1436.04,UEFA
+60.0,https://api.fifa.com/api/v3/picture/flags-sq-2/RSA,South Africa,61.0,1432.76,1426.73,CAF
+61.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KSA,Saudi Arabia,60.0,1429.48,1429.48,AFC
+62.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BFA,Burkina Faso,62.0,1412.79,1404.81,CAF
+63.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ALB,Albania,63.0,1401.07,1401.07,UEFA
+64.0,https://api.fifa.com/api/v3/picture/flags-sq-2/JOR,Jordan,64.0,1388.93,1388.93,AFC
+65.0,https://api.fifa.com/api/v3/picture/flags-sq-2/HON,Honduras,65.0,1379.54,1379.54,CONCACAF
+66.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MKD,North Macedonia,66.0,1378.57,1378.57,UEFA
+67.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CPV,Cabo Verde,67.0,1370.49,1370.49,CAF
+68.0,https://api.fifa.com/api/v3/picture/flags-sq-2/UAE,United Arab Emirates,68.0,1370.47,1370.47,AFC
+69.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NIR,Northern Ireland,69.0,1366.02,1366.02,UEFA
+70.0,https://api.fifa.com/api/v3/picture/flags-sq-2/JAM,Jamaica,70.0,1362.46,1362.46,CONCACAF
+71.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BIH,Bosnia and Herzegovina,71.0,1362.37,1362.37,UEFA
+72.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GHA,Ghana,72.0,1351.09,1351.09,CAF
+73.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GEO,Georgia,73.0,1347.88,1347.88,UEFA
+74.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ISL,Iceland,74.0,1344.72,1344.72,UEFA
+75.0,https://api.fifa.com/api/v3/picture/flags-sq-2/FIN,Finland,75.0,1341.81,1341.81,UEFA
+76.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BOL,Bolivia,76.0,1330.52,1329.56,CONMEBOL
+77.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ISR,Israel,77.0,1328.14,1328.14,UEFA
+78.0,https://api.fifa.com/api/v3/picture/flags-sq-2/OMA,Oman,79.0,1313.46,1313.46,AFC
+79.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KOS,Kosovo,80.0,1308.84,1308.84,UEFA
+80.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GUI,Guinea,81.0,1307.05,1307.05,CAF
+81.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CUW,Curaçao,82.0,1302.7,1302.7,CONCACAF
+82.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MNE,Montenegro,83.0,1297.09,1297.09,UEFA
+83.0,https://api.fifa.com/api/v3/picture/flags-sq-2/HAI,Haiti,84.0,1294.49,1294.49,CONCACAF
+84.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SYR,Syria,86.0,1282.62,1282.62,AFC
+85.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NZL,New Zealand,87.0,1279.25,1279.25,OFC
+86.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GAB,Gabon,78.0,1276.28,1321.25,CAF
+87.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BUL,Bulgaria,88.0,1272.19,1272.19,UEFA
+88.0,https://api.fifa.com/api/v3/picture/flags-sq-2/UGA,Uganda,85.0,1264.09,1288.01,CAF
+89.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ANG,Angola,89.0,1263.1,1271.54,CAF
+90.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BHR,Bahrain,90.0,1258.53,1258.53,AFC
+91.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ZAM,Zambia,91.0,1256.68,1258.4,CAF
+92.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BEN,Benin,92.0,1250.05,1255.72,CAF
+93.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CHN,China PR,93.0,1249.06,1249.06,AFC
+94.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GUA,Guatemala,94.0,1245.77,1245.77,CONCACAF
+95.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PLE,Palestine,95.0,1244.73,1244.73,AFC
+96.0,https://api.fifa.com/api/v3/picture/flags-sq-2/THA,Thailand,96.0,1243.27,1243.27,AFC
+97.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TRI,Trinidad and Tobago,98.0,1227.32,1227.32,CONCACAF
+98.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BLR,Belarus,99.0,1227.09,1227.09,UEFA
+99.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SLV,El Salvador,100.0,1226.65,1226.65,CONCACAF
+100.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TJK,Tajikistan,101.0,1224.93,1224.93,AFC
+101.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MOZ,Mozambique,102.0,1224.31,1223.48,CAF
+102.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LUX,Luxembourg,103.0,1218.91,1218.91,UEFA
+103.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KGZ,Kyrgyz Republic,104.0,1201.22,1201.22,AFC
+104.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MAD,Madagascar,105.0,1198.87,1198.87,CAF
+105.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ARM,Armenia,106.0,1196.08,1196.08,UEFA
+106.0,https://api.fifa.com/api/v3/picture/flags-sq-2/COM,Comoros,109.0,1193.49,1186.41,CAF
+107.0,https://api.fifa.com/api/v3/picture/flags-sq-2/EQG,Equatorial Guinea,97.0,1190.01,1229.09,CAF
+108.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VIE,Vietnam,107.0,1189.51,1189.51,AFC
+109.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LBN,Lebanon,108.0,1187.96,1187.96,AFC
+110.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TAN,Tanzania,112.0,1186.14,1181.22,CAF
+111.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NIG,Niger,110.0,1185.09,1185.09,CAF
+112.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LBY,Libya,111.0,1183.06,1183.06,CAF
+113.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KEN,Kenya,113.0,1179.54,1179.54,CAF
+114.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KAZ,Kazakhstan,114.0,1173.0,1173.0,UEFA
+115.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MTN,Mauritania,115.0,1171.35,1171.35,CAF
+116.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GAM,The Gambia,116.0,1161.55,1161.55,CAF
+117.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SDN,Sudan,117.0,1157.22,1154.44,CAF
+118.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NAM,Namibia,118.0,1153.22,1153.22,CAF
+119.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PRK,Korea DPR,119.0,1151.05,1151.05,AFC
+120.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SLE,Sierra Leone,120.0,1149.1,1149.1,CAF
+121.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MAS,Malaysia,121.0,1145.89,1145.89,AFC
+122.0,https://api.fifa.com/api/v3/picture/flags-sq-2/IDN,Indonesia,122.0,1144.73,1144.73,AFC
+123.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SUR,Suriname,123.0,1140.54,1140.54,CONCACAF
+124.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TOG,Togo,124.0,1140.35,1140.35,CAF
+125.0,https://api.fifa.com/api/v3/picture/flags-sq-2/FRO,Faroe Islands,125.0,1135.42,1135.42,UEFA
+126.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MWI,Malawi,126.0,1133.75,1133.75,CAF
+127.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AZE,Azerbaijan,127.0,1132.97,1132.97,UEFA
+128.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CYP,Cyprus,128.0,1128.5,1128.5,UEFA
+129.0,https://api.fifa.com/api/v3/picture/flags-sq-2/EST,Estonia,130.0,1123.11,1123.11,UEFA
+130.0,https://api.fifa.com/api/v3/picture/flags-sq-2/RWA,Rwanda,131.0,1117.78,1117.78,CAF
+131.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NCA,Nicaragua,132.0,1116.86,1116.86,CONCACAF
+132.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ZIM,Zimbabwe,129.0,1113.61,1123.69,CAF
+133.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GNB,Guinea-Bissau,133.0,1108.09,1108.09,CAF
+134.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CGO,Congo,134.0,1105.96,1105.96,CAF
+135.0,https://api.fifa.com/api/v3/picture/flags-sq-2/KUW,Kuwait,135.0,1105.1,1105.1,AFC
+136.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PHI,Philippines,136.0,1090.95,1090.95,AFC
+137.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TKM,Turkmenistan,137.0,1087.52,1087.52,AFC
+138.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CTA,Central African Republic,139.0,1083.57,1083.57,CAF
+139.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LVA,Latvia,140.0,1082.68,1082.68,UEFA
+140.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LBR,Liberia,141.0,1081.46,1081.46,CAF
+141.0,https://api.fifa.com/api/v3/picture/flags-sq-2/IND,India,142.0,1079.52,1079.52,AFC
+142.0,https://api.fifa.com/api/v3/picture/flags-sq-2/DOM,Dominican Republic,143.0,1077.49,1077.49,CONCACAF
+143.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LES,Lesotho,144.0,1065.97,1065.97,CAF
+144.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BOT,Botswana,138.0,1062.42,1084.56,CAF
+145.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BDI,Burundi,145.0,1060.22,1060.22,CAF
+146.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LTU,Lithuania,146.0,1056.34,1056.34,UEFA
+147.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ETH,Ethiopia,147.0,1055.36,1055.36,CAF
+148.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SGP,Singapore,148.0,1050.35,1050.35,AFC
+149.0,https://api.fifa.com/api/v3/picture/flags-sq-2/YEM,Yemen,149.0,1049.49,1049.49,AFC
+150.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NCL,New Caledonia,150.0,1042.62,1042.62,OFC
+151.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GUY,Guyana,151.0,1041.9,1041.9,CONCACAF
+152.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SOL,Solomon Islands,152.0,1039.86,1039.86,OFC
+153.0,https://api.fifa.com/api/v3/picture/flags-sq-2/HKG,"Hong Kong, China",153.0,1038.14,1038.14,AFC
+154.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SKN,St Kitts and Nevis,154.0,1035.25,1035.25,CONCACAF
+155.0,https://api.fifa.com/api/v3/picture/flags-sq-2/FIJ,Fiji,155.0,1029.7,1029.7,OFC
+156.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PUR,Puerto Rico,156.0,1020.07,1020.07,CONCACAF
+157.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TAH,Tahiti,157.0,1019.04,1019.04,OFC
+158.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MDA,Moldova,158.0,1012.64,1012.64,UEFA
+159.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SWZ,Eswatini,159.0,1010.52,1010.52,CAF
+160.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VAN,Vanuatu,160.0,997.01,997.01,OFC
+161.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MLT,Malta,161.0,996.59,996.59,UEFA
+162.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AFG,Afghanistan,162.0,991.19,991.19,AFC
+163.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MYA,Myanmar,163.0,990.81,990.81,AFC
+164.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GRN,Grenada,164.0,989.59,989.59,CONCACAF
+165.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ATG,Antigua and Barbuda,165.0,986.58,986.58,CONCACAF
+166.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CUB,Cuba,166.0,980.49,980.49,CONCACAF
+167.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LCA,St Lucia,167.0,980.28,980.28,CONCACAF
+168.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SSD,South Sudan,168.0,977.5,977.5,CAF
+169.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BER,Bermuda,169.0,976.87,976.87,CONCACAF
+170.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PNG,Papua New Guinea,170.0,974.9,974.9,OFC
+171.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VIN,St Vincent and the Grenadines,171.0,963.74,963.74,CONCACAF
+172.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AND,Andorra,172.0,949.44,949.44,UEFA
+173.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MDV,Maldives,173.0,945.02,945.02,AFC
+174.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TPE,Chinese Taipei,174.0,938.21,938.21,AFC
+175.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MSR,Montserrat,175.0,916.75,916.75,CONCACAF
+176.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MRI,Mauritius,176.0,915.51,915.51,CAF
+177.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CHA,Chad,177.0,914.65,914.65,CAF
+178.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BRB,Barbados,178.0,914.42,914.42,CONCACAF
+179.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CAM,Cambodia,179.0,911.54,911.54,AFC
+180.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BAN,Bangladesh,180.0,911.1,911.1,AFC
+181.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BLZ,Belize,181.0,910.74,910.74,CONCACAF
+182.0,https://api.fifa.com/api/v3/picture/flags-sq-2/NEP,Nepal,182.0,902.52,902.52,AFC
+183.0,https://api.fifa.com/api/v3/picture/flags-sq-2/DMA,Dominica,183.0,901.37,901.37,CONCACAF
+184.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ASA,American Samoa,184.0,883.17,883.17,OFC
+185.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MNG,Mongolia,185.0,879.75,879.75,AFC
+186.0,https://api.fifa.com/api/v3/picture/flags-sq-2/COK,Cook Islands,186.0,877.53,877.53,OFC
+187.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SAM,Samoa,187.0,876.41,876.41,OFC
+188.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BRU,Brunei Darussalam,188.0,875.78,875.78,AFC
+189.0,https://api.fifa.com/api/v3/picture/flags-sq-2/STP,São Tomé and Príncipe,189.0,871.63,871.63,CAF
+190.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LAO,Laos,190.0,871.16,871.16,AFC
+191.0,https://api.fifa.com/api/v3/picture/flags-sq-2/ARU,Aruba,191.0,867.94,867.94,CONCACAF
+192.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BHU,Bhutan,192.0,867.86,867.86,AFC
+193.0,https://api.fifa.com/api/v3/picture/flags-sq-2/MAC,Macau,193.0,865.29,865.29,AFC
+194.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SRI,Sri Lanka,194.0,857.4,857.4,AFC
+195.0,https://api.fifa.com/api/v3/picture/flags-sq-2/CAY,Cayman Islands,195.0,851.74,851.74,CONCACAF
+196.0,https://api.fifa.com/api/v3/picture/flags-sq-2/DJI,Djibouti,196.0,847.03,847.03,CAF
+197.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TGA,Tonga,197.0,835.64,835.64,OFC
+198.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TLS,Timor-Leste,198.0,835.55,835.55,AFC
+199.0,https://api.fifa.com/api/v3/picture/flags-sq-2/PAK,Pakistan,199.0,833.16,833.16,AFC
+200.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SOM,Somalia,200.0,828.9,828.9,CAF
+201.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GUM,Guam,201.0,823.08,823.08,AFC
+202.0,https://api.fifa.com/api/v3/picture/flags-sq-2/GIB,Gibraltar,202.0,818.03,818.03,UEFA
+203.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SEY,Seychelles,203.0,805.33,805.33,CAF
+204.0,https://api.fifa.com/api/v3/picture/flags-sq-2/TCA,Turks and Caicos Islands,204.0,803.98,803.98,CONCACAF
+205.0,https://api.fifa.com/api/v3/picture/flags-sq-2/LIE,Liechtenstein,205.0,799.8,799.8,UEFA
+206.0,https://api.fifa.com/api/v3/picture/flags-sq-2/BAH,Bahamas,206.0,796.6,796.6,CONCACAF
+207.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VIR,US Virgin Islands,207.0,776.6,776.6,CONCACAF
+208.0,https://api.fifa.com/api/v3/picture/flags-sq-2/VGB,British Virgin Islands,208.0,776.54,776.54,CONCACAF
+209.0,https://api.fifa.com/api/v3/picture/flags-sq-2/AIA,Anguilla,209.0,759.78,759.78,CONCACAF
+210.0,https://api.fifa.com/api/v3/picture/flags-sq-2/SMR,San Marino,210.0,726.03,726.03,UEFA
+,https://api.fifa.com/api/v3/picture/flags-sq-2/ERI,Eritrea,,855.56,0.0,CAF
