@@ -2,7 +2,7 @@
 
 ### Titulo
 
-Análisis del talento internacional en el fútbol de Inglaterra. 
+Análisis del talento sudamericano en el fútbol de Inglaterra. 
 
 ## Objetivo del proyecto
 
