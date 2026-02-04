@@ -35,7 +35,7 @@ Las variables principales utilizadas en el análisis son:
 
 ## Preguntas clave / Hipótesis
 
-- ¿Qué proporción de jugadores del futbol inglés pertenece a selecciones Top 20 del Ranking FIFA?  
+- ¿Qué proporción de jugadores del futbol inglés pertenece a selecciones Top 20 del Ranking FIFA? ¿Hace que la liga sea considerada la mejor del mundo?  
 - Dentro de los jugadores Top 20 en Premier League, ¿qué confederaciones están más representadas (UEFA vs CONMEBOL, etc.)?  
 - Teniendo en cuenta la presencia de jugadores de selecciones CONMEBOL en el futbol inglés, ¿es un mercado cerrado dado el nivel de competición?  
 - Dentro del top 10 del ranking FIFA solo estan Argentina y Brasil por lo que el scouting principal hay que hacerlo en estas dos ligas. 
@@ -82,3 +82,7 @@ El análisis incluye:
 1. Clonar el repositorio.
 2. Instalar las librerías necesarias ( pandas, numpy, mysql).
 3. Ejecutar el cuaderno a través de github.
+
+
+## Fuentes de datos
+- https://www.transfermarkt.es/
