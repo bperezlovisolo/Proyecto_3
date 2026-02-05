@@ -6,11 +6,11 @@ Análisis del talento sudamericano en el fútbol de Inglaterra.
 
 ## Objetivo del proyecto
 
-Analizar si el futbol inglés concentra una cantidad relevante de jugadores de selecciones que se ubican dentro del Top 20 del Ranking  y en particular cual es la participación de los jugadores de selecciones CONMEBOL. 
-El objetivo de este proyecto es poder verificar si hay una conecentración de talento y a su vez constatar si el jugador sudamericano tiene presencia en esta liga. 
+Analizar si el futbol inglés concentra una cantidad relevante de jugadores de selecciones que se ubican dentro del Top 20 del Ranking  y en particular cual es la participación de los jugadores de selecciones CONMEBOL para lograr concluir si es un mercado abierto para que estos tengan su primer experiencia europe allí o deben tener un paso previo por otra liga. 
+
 
 ## Contexto del negocio
-Este proyecto se plantea como una consultora especializada en scouting y analisis deportivo, la cual fue contrada por Oller Group (empresa especializada en representación de jugadores) para obtener información del mercado Inglés. La empresa nos ha solicitado un análisis puntual sobre la liga inglesa a través del cual se pueda catalogar su nivel y a su vez la presencia de jugadores sudamericanos en ella. 
+Este proyecto se plantea como una consultora especializada en scouting y analisis deportivo, la cual fue contrada por Oller Group (representación de jugadores) para obtener información del mercado Inglés. La empresa nos ha solicitado un análisis puntual sobre la liga inglesa a través del cual se pueda catalogar su nivel y a su vez la presencia de jugadores sudamericanos en ella. 
 Con ello se busca identificar si el futbol ingles es hoy en dia el que mayor talento colectivo tiene y además, verificar la incidencia de los futbolistas sudamericanos con el objetivo de proponer estrategias de scouting, fichajes y verificar si están desarrollados de tal forma que puedan ser transferidos directamente a un equipo de esta liga.
 
 ## Dataset
@@ -29,7 +29,7 @@ Las variables principales utilizadas en el análisis son:
 
 ## Notas sobre la calidad del dato
 
-- La unión entre datasets depende de la columna de nombres de país (`Nationality` vs `name`).  
+- La unión entre datasets depende de la columna de nombres de país (`Nationality`).  
 - Algunos jugadores de la liga inglesa quedaron con valores nulos en la columna ranking dado que la selección a la que representan no esta dentro del ranking FIFA o bien porque los nombres de los países estaban mal escritos (Ej: IR Iran e Iran).
 - Para el análisis Top 20 se excluyeron aquellas filas sin ranking para evitar sesgos.
 
